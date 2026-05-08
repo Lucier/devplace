@@ -612,7 +612,7 @@ h2 em {
 .marquee-track {
   display: flex;
   width: max-content;
-  animation: marquee-scroll 35s linear infinite;
+  animation: marquee-scroll 15s linear infinite;
 }
 
 .marquee:hover .marquee-track {
